@@ -1,16 +1,14 @@
-## Hi there 👋
+# 안녕하세요, 김정민입니다 👋
 
-<!--
-**wjmals/wjmals** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+웹과 앱 프로젝트를 만들며 다양한 기술을 익히고 있습니다.
 
-Here are some ideas to get you started:
+## 기술
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+`TypeScript` · `JavaScript` · `Dart` · `C++`
+
+## 프로젝트
+
+- [WMS](https://github.com/wjmals/WMS) — TypeScript
+- [MacNotch](https://github.com/wjmals/MacNotch) — 맥북 노치 앱
+- [carryrobot_public](https://github.com/wjmals/carryrobot_public) — C++
+- [todolist_school](https://github.com/wjmals/todolist_school) — JavaScript
